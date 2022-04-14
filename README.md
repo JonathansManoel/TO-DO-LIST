@@ -20,3 +20,6 @@ pipenv sync -d
 pipenv run python manage.py migrate
 pipenv run python manage.py runserver
 ```
+
+# Aplicação em ambiente local
+![img.png](img.png)
